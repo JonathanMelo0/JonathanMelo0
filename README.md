@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Olá, eu sou Jonathan Melo
+💻 Estudante de Desenvolvimento de Software
+🚀 Focado em desenvolvimento Full Stack
 
-<!--
-**JonathanMelo0/JonathanMelo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tecnologias
+JavaScript
+React
+Node.js
+SQL
+Git
+GitHub
 
-Here are some ideas to get you started:
+📚 Atualmente estudando
+Desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Banco de Dados
+
+APIs com Node.js
+
+React
+
+📂 Projetos
+🔹 Projeto de Banco de Dados em SQL
+🔹 API com Node + Express
+🔹 Aplicações Web com React
+
+📫 Contato
+GitHub: https://github.com/seu-usuario
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Melo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-melo-1238232b3)
+⭐ Obrigado por visitar meu perfil!
